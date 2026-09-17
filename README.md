@@ -24,7 +24,7 @@ Rather than just reporting numbers, the workbook is built the way an analyst wou
  
 ## Dashboard
  
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](./images/SuperStore_data_dashboard.png)
  
 ---
  
@@ -52,7 +52,7 @@ Rather than just reporting numbers, the workbook is built the way an analyst wou
 5. **Retention is nearly the whole business** — 781 of 793 customers (98%) are repeat buyers, and they account for virtually all recorded profit.
 *Full write-up with supporting numbers is on the Insights & Recommendations tab.*
  
-![Profitability Summary Screenshot](./images/profitability-summary.png)
+![Profitability Summary Screenshot](./images/SuperStore_data_profitability.png)
  
 ---
  
